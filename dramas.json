@@ -257,7 +257,7 @@
       "description": "Hanya percubaan",
       "category": "Drama",
       "rating": 5.0,
-      "poster": "https://raw.githubusercontent.com/namynetworking/NamyDrama/main/posters/drama_4_1787127753047.png"
+      "poster": "/posters/public/drama_4_1787127753047.png",
       "youtubeId": "-gCWBrMCdMs",
       "sourceUrl": "https://youtu.be/-gCWBrMCdMs?si=E21DKmFNpVS3M24o",
       "durationSeconds": 7671,
@@ -644,7 +644,7 @@
       "description": "Testing import manual",
       "category": "Drama",
       "rating": 8.5,
-      "poster": "https://raw.githubusercontent.com/namynetworking/NamyDrama/main/posters/drama_3_1787128092642.jpg"
+      "poster": "/posters/public/drama_3_1787128092642.jpg",
       "youtubeId": "6fviJ6uube8",
       "sourceUrl": "https://youtu.be/6fviJ6uube8?si=SIBqqqtiQtkGm9o9",
       "durationSeconds": 7671,
@@ -1031,7 +1031,7 @@
       "description": "",
       "category": "Drama",
       "rating": 0.0,
-      "poster": "https://raw.githubusercontent.com/namynetworking/NamyDrama/main/posters/drama_1_1787128102289.jpg"
+      "poster": "/posters/public/drama_1_1787128102289.jpg",
       "youtubeId": "cEri8ztq5Tc",
       "sourceUrl": "https://youtu.be/cEri8ztq5Tc",
       "durationSeconds": 7671,
