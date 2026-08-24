@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "updatedAt":  "2026-08-24T11:07:13Z",
+    "updatedAt":  "2026-08-24T11:21:04Z",
     "dramas":  [
                    {
                        "id":  1,
@@ -889,6 +889,138 @@
                        "youtubeChannelId":  "UCuVQiU-l1OuM-RK93QrT3Vg",
                        "youtubeChannelTitle":  "Klub Drama Praktis",
                        "youtubePublishedAt":  "2026-07-18T04:00:15Z"
+                   },
+                   {
+                       "id":  4,
+                       "title":  "Mereka ejek dia sebagai orang bodoh kampung – Sampai dia jadi dewa penyembuh",
+                       "description":  "#lovestory #serieschinas #serieschinasenespañol\n🧡 Selamat Datang di Vaya Trama 🧡\n\nKanal favoritmu untuk drama pendek China yang manis, seru, dan bikin ketagihan—dialihsuarakan ke dalam bahasa Spanyol.\n\n✨ Apa yang akan kamu temukan di sini?\n• Drama pendek China bergenre romantis, manis, dan penuh gairah\n• Pengalihsuaraan profesional dalam bahasa Spanyol\n• Konten diperbarui setiap hari\n• Kualitas HD dan pengalaman menonton yang nyaman\n\nJangan sampai ketinggalan setiap episodenya:\n👉 Subscribe dan aktifkan loncengnya 🔔\nVideo ini sesuai dengan standar EDSA dan bukan merupakan skenario kehidupan nyata.\n\n#amor #ceo #serieschinas #venganza #story #historia #teatro #drama #urbano #chinesedrama #series \n#lovestory #shortstv #dramachina #serieschinas #serieschinasenespañol #shortdrama #sériedetv #shortdrama #tvshow #dramabox",
+                       "category":  "Drama",
+                       "rating":  0,
+                       "poster":  "https://raw.githubusercontent.com/namynetworking/NamyDrama/main/posters/drama_4.jpg",
+                       "youtubeId":  "KCK1c3u1d-I",
+                       "sourceUrl":  "https://youtu.be/KCK1c3u1d-I",
+                       "durationSeconds":  2742,
+                       "episodeDuration":  150,
+                       "totalEpisodes":  19,
+                       "episodes":  [
+                                        {
+                                            "number":  1,
+                                            "title":  "Episode 01",
+                                            "startSeconds":  0,
+                                            "endSeconds":  150
+                                        },
+                                        {
+                                            "number":  2,
+                                            "title":  "Episode 02",
+                                            "startSeconds":  150,
+                                            "endSeconds":  300
+                                        },
+                                        {
+                                            "number":  3,
+                                            "title":  "Episode 03",
+                                            "startSeconds":  300,
+                                            "endSeconds":  450
+                                        },
+                                        {
+                                            "number":  4,
+                                            "title":  "Episode 04",
+                                            "startSeconds":  450,
+                                            "endSeconds":  600
+                                        },
+                                        {
+                                            "number":  5,
+                                            "title":  "Episode 05",
+                                            "startSeconds":  600,
+                                            "endSeconds":  750
+                                        },
+                                        {
+                                            "number":  6,
+                                            "title":  "Episode 06",
+                                            "startSeconds":  750,
+                                            "endSeconds":  900
+                                        },
+                                        {
+                                            "number":  7,
+                                            "title":  "Episode 07",
+                                            "startSeconds":  900,
+                                            "endSeconds":  1050
+                                        },
+                                        {
+                                            "number":  8,
+                                            "title":  "Episode 08",
+                                            "startSeconds":  1050,
+                                            "endSeconds":  1200
+                                        },
+                                        {
+                                            "number":  9,
+                                            "title":  "Episode 09",
+                                            "startSeconds":  1200,
+                                            "endSeconds":  1350
+                                        },
+                                        {
+                                            "number":  10,
+                                            "title":  "Episode 10",
+                                            "startSeconds":  1350,
+                                            "endSeconds":  1500
+                                        },
+                                        {
+                                            "number":  11,
+                                            "title":  "Episode 11",
+                                            "startSeconds":  1500,
+                                            "endSeconds":  1650
+                                        },
+                                        {
+                                            "number":  12,
+                                            "title":  "Episode 12",
+                                            "startSeconds":  1650,
+                                            "endSeconds":  1800
+                                        },
+                                        {
+                                            "number":  13,
+                                            "title":  "Episode 13",
+                                            "startSeconds":  1800,
+                                            "endSeconds":  1950
+                                        },
+                                        {
+                                            "number":  14,
+                                            "title":  "Episode 14",
+                                            "startSeconds":  1950,
+                                            "endSeconds":  2100
+                                        },
+                                        {
+                                            "number":  15,
+                                            "title":  "Episode 15",
+                                            "startSeconds":  2100,
+                                            "endSeconds":  2250
+                                        },
+                                        {
+                                            "number":  16,
+                                            "title":  "Episode 16",
+                                            "startSeconds":  2250,
+                                            "endSeconds":  2400
+                                        },
+                                        {
+                                            "number":  17,
+                                            "title":  "Episode 17",
+                                            "startSeconds":  2400,
+                                            "endSeconds":  2550
+                                        },
+                                        {
+                                            "number":  18,
+                                            "title":  "Episode 18",
+                                            "startSeconds":  2550,
+                                            "endSeconds":  2700
+                                        },
+                                        {
+                                            "number":  19,
+                                            "title":  "Episode 19",
+                                            "startSeconds":  2700,
+                                            "endSeconds":  2742
+                                        }
+                                    ],
+                       "youtubeChannelId":  "UCE-66OAUbwylVhBwmNEUKNg",
+                       "youtubeChannelTitle":  "Vaya Trama",
+                       "youtubePublishedAt":  "2026-08-24T07:00:55Z"
                    }
                ]
 }
