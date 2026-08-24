@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "updatedAt":  "2026-08-24T10:24:49Z",
+    "updatedAt":  "2026-08-24T10:39:35Z",
     "dramas":  [
                    {
                        "id":  1,
@@ -157987,6 +157987,270 @@
                        "youtubeChannelId":  "UCCXUOTv0JhrAUTNFlEkHTxg",
                        "youtubeChannelTitle":  "Gajah Drama",
                        "youtubePublishedAt":  "2024-12-10T10:30:00Z"
+                   },
+                   {
+                       "id":  570,
+                       "title":  "Petani Miskin Datang Beli Rumah Diremehkan Sales, Tak Disangka Dia Miliarder menyamar untuk menguji",
+                       "description":  "► Subscribe channel: https://bit.ly/semestadracin\n\nFanpage Semesta Dracinr: https://www.facebook.com/ccapmovies\nTiktok Semesta Dracin: https://www.tiktok.com/@ccapmovies\n\nGenre: dracin, drama china dub indo, drama korea terbaru, drakor terbaru, drama korea romantis, alur cerita film china, drakor, Alur Cerita, Alur Cerita Romantis, film korea bahasa indonesia, Miliarder Pura-Pura Miskin, Cinderella balas dendam, Pernikahan kilat dengan CEO, Cinta satu malam dengan CEO, film pendek menyentuh hati, alur cerita film keluarga\n\n© Hak cipta milik CCAP Network, mohon jangan reup kembali dalam bentuk apa pun.\n---------------------------\n#semestadracin #filmcina #dramakoreasubindo #cinta #ceo #drakor #dracin #tokofilm",
+                       "category":  "Family",
+                       "rating":  0,
+                       "poster":  "https://raw.githubusercontent.com/namynetworking/NamyDrama/main/posters/drama_570.jpg",
+                       "youtubeId":  "ai762HELsDg",
+                       "sourceUrl":  "https://youtu.be/ai762HELsDg",
+                       "durationSeconds":  6012,
+                       "episodeDuration":  150,
+                       "totalEpisodes":  41,
+                       "episodes":  [
+                                        {
+                                            "number":  1,
+                                            "title":  "Episode 01",
+                                            "startSeconds":  0,
+                                            "endSeconds":  150
+                                        },
+                                        {
+                                            "number":  2,
+                                            "title":  "Episode 02",
+                                            "startSeconds":  150,
+                                            "endSeconds":  300
+                                        },
+                                        {
+                                            "number":  3,
+                                            "title":  "Episode 03",
+                                            "startSeconds":  300,
+                                            "endSeconds":  450
+                                        },
+                                        {
+                                            "number":  4,
+                                            "title":  "Episode 04",
+                                            "startSeconds":  450,
+                                            "endSeconds":  600
+                                        },
+                                        {
+                                            "number":  5,
+                                            "title":  "Episode 05",
+                                            "startSeconds":  600,
+                                            "endSeconds":  750
+                                        },
+                                        {
+                                            "number":  6,
+                                            "title":  "Episode 06",
+                                            "startSeconds":  750,
+                                            "endSeconds":  900
+                                        },
+                                        {
+                                            "number":  7,
+                                            "title":  "Episode 07",
+                                            "startSeconds":  900,
+                                            "endSeconds":  1050
+                                        },
+                                        {
+                                            "number":  8,
+                                            "title":  "Episode 08",
+                                            "startSeconds":  1050,
+                                            "endSeconds":  1200
+                                        },
+                                        {
+                                            "number":  9,
+                                            "title":  "Episode 09",
+                                            "startSeconds":  1200,
+                                            "endSeconds":  1350
+                                        },
+                                        {
+                                            "number":  10,
+                                            "title":  "Episode 10",
+                                            "startSeconds":  1350,
+                                            "endSeconds":  1500
+                                        },
+                                        {
+                                            "number":  11,
+                                            "title":  "Episode 11",
+                                            "startSeconds":  1500,
+                                            "endSeconds":  1650
+                                        },
+                                        {
+                                            "number":  12,
+                                            "title":  "Episode 12",
+                                            "startSeconds":  1650,
+                                            "endSeconds":  1800
+                                        },
+                                        {
+                                            "number":  13,
+                                            "title":  "Episode 13",
+                                            "startSeconds":  1800,
+                                            "endSeconds":  1950
+                                        },
+                                        {
+                                            "number":  14,
+                                            "title":  "Episode 14",
+                                            "startSeconds":  1950,
+                                            "endSeconds":  2100
+                                        },
+                                        {
+                                            "number":  15,
+                                            "title":  "Episode 15",
+                                            "startSeconds":  2100,
+                                            "endSeconds":  2250
+                                        },
+                                        {
+                                            "number":  16,
+                                            "title":  "Episode 16",
+                                            "startSeconds":  2250,
+                                            "endSeconds":  2400
+                                        },
+                                        {
+                                            "number":  17,
+                                            "title":  "Episode 17",
+                                            "startSeconds":  2400,
+                                            "endSeconds":  2550
+                                        },
+                                        {
+                                            "number":  18,
+                                            "title":  "Episode 18",
+                                            "startSeconds":  2550,
+                                            "endSeconds":  2700
+                                        },
+                                        {
+                                            "number":  19,
+                                            "title":  "Episode 19",
+                                            "startSeconds":  2700,
+                                            "endSeconds":  2850
+                                        },
+                                        {
+                                            "number":  20,
+                                            "title":  "Episode 20",
+                                            "startSeconds":  2850,
+                                            "endSeconds":  3000
+                                        },
+                                        {
+                                            "number":  21,
+                                            "title":  "Episode 21",
+                                            "startSeconds":  3000,
+                                            "endSeconds":  3150
+                                        },
+                                        {
+                                            "number":  22,
+                                            "title":  "Episode 22",
+                                            "startSeconds":  3150,
+                                            "endSeconds":  3300
+                                        },
+                                        {
+                                            "number":  23,
+                                            "title":  "Episode 23",
+                                            "startSeconds":  3300,
+                                            "endSeconds":  3450
+                                        },
+                                        {
+                                            "number":  24,
+                                            "title":  "Episode 24",
+                                            "startSeconds":  3450,
+                                            "endSeconds":  3600
+                                        },
+                                        {
+                                            "number":  25,
+                                            "title":  "Episode 25",
+                                            "startSeconds":  3600,
+                                            "endSeconds":  3750
+                                        },
+                                        {
+                                            "number":  26,
+                                            "title":  "Episode 26",
+                                            "startSeconds":  3750,
+                                            "endSeconds":  3900
+                                        },
+                                        {
+                                            "number":  27,
+                                            "title":  "Episode 27",
+                                            "startSeconds":  3900,
+                                            "endSeconds":  4050
+                                        },
+                                        {
+                                            "number":  28,
+                                            "title":  "Episode 28",
+                                            "startSeconds":  4050,
+                                            "endSeconds":  4200
+                                        },
+                                        {
+                                            "number":  29,
+                                            "title":  "Episode 29",
+                                            "startSeconds":  4200,
+                                            "endSeconds":  4350
+                                        },
+                                        {
+                                            "number":  30,
+                                            "title":  "Episode 30",
+                                            "startSeconds":  4350,
+                                            "endSeconds":  4500
+                                        },
+                                        {
+                                            "number":  31,
+                                            "title":  "Episode 31",
+                                            "startSeconds":  4500,
+                                            "endSeconds":  4650
+                                        },
+                                        {
+                                            "number":  32,
+                                            "title":  "Episode 32",
+                                            "startSeconds":  4650,
+                                            "endSeconds":  4800
+                                        },
+                                        {
+                                            "number":  33,
+                                            "title":  "Episode 33",
+                                            "startSeconds":  4800,
+                                            "endSeconds":  4950
+                                        },
+                                        {
+                                            "number":  34,
+                                            "title":  "Episode 34",
+                                            "startSeconds":  4950,
+                                            "endSeconds":  5100
+                                        },
+                                        {
+                                            "number":  35,
+                                            "title":  "Episode 35",
+                                            "startSeconds":  5100,
+                                            "endSeconds":  5250
+                                        },
+                                        {
+                                            "number":  36,
+                                            "title":  "Episode 36",
+                                            "startSeconds":  5250,
+                                            "endSeconds":  5400
+                                        },
+                                        {
+                                            "number":  37,
+                                            "title":  "Episode 37",
+                                            "startSeconds":  5400,
+                                            "endSeconds":  5550
+                                        },
+                                        {
+                                            "number":  38,
+                                            "title":  "Episode 38",
+                                            "startSeconds":  5550,
+                                            "endSeconds":  5700
+                                        },
+                                        {
+                                            "number":  39,
+                                            "title":  "Episode 39",
+                                            "startSeconds":  5700,
+                                            "endSeconds":  5850
+                                        },
+                                        {
+                                            "number":  40,
+                                            "title":  "Episode 40",
+                                            "startSeconds":  5850,
+                                            "endSeconds":  6000
+                                        },
+                                        {
+                                            "number":  41,
+                                            "title":  "Episode 41",
+                                            "startSeconds":  6000,
+                                            "endSeconds":  6012
+                                        }
+                                    ],
+                       "youtubeChannelId":  "UCn82ojHce-rSm4_N6o5o0Fw",
+                       "youtubeChannelTitle":  "Semesta Dracin",
+                       "youtubePublishedAt":  "2026-08-06T03:34:13Z"
                    }
                ]
 }
